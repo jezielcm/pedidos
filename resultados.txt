@@ -1,0 +1,22 @@
+ ==> Corpus não balanceado <== 
+        text
+irony       
+0       2700
+1      12695
+ 
+ ==> Corpus balanceado <== 
+Irônicos: 12695 
+Não irônicos: 12158 
+
+ 
+ ==> Modelo treinado com Gaussian Naive Bayes <== 
+Acurácia balanceada: 0.6540142971064024
+ 
+ ==> Modelo treinado com Multinomial Naive Bayes <== 
+Acurácia balanceada: 0.5937357598541809
+ 
+ ==> Modelo treinado com Decision tree <== 
+Acurácia balanceada: 0.7338516746411483
+ 
+ ==> Modelo treinado com SVM <== 
+Acurácia balanceada: 0.646011335156072
